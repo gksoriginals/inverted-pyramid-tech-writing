@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inverted Pyramid Tech Writing"
+  short_description: "Rewrite technical posts with answer-first structure"
+  default_prompt: "Use $inverted-pyramid-tech-writing to rewrite this technical article so the main answer and key supporting points appear first."
